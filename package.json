@@ -9,9 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.6.8",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@stripe/react-stripe-js": "^1.5.0",
+    "@stripe/stripe-js": "^1.18.0",
+    "framer-motion": "^4",
     "next": "11.1.2",
+    "next-connect": "^0.10.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "stripe": "^8.176.0"
   },
   "devDependencies": {
     "@types/react": "17.0.24",
